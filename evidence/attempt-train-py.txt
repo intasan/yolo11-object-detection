@@ -1,0 +1,7 @@
+$ python train.py
+Traceback (most recent call last):
+  File "/workspace/scratch/1ef458904073/repos/yolo11-object-detection/train.py", line 1, in <module>
+    from ultralytics import YOLO
+ModuleNotFoundError: No module named 'ultralytics'
+
+exit_code=1

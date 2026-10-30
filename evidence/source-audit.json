@@ -1,0 +1,13 @@
+{
+  "repository": "intasan/yolo11-object-detection",
+  "source_commit": "0f8e0ecba9708cbad4a2e2043102dcd1c7779030",
+  "inspected_at": "2026-10-30T17:50:44.722443+00:00",
+  "tracked_file_count": 4,
+  "checks": [
+    {
+      "file": "train.py",
+      "check": "Python syntax only",
+      "ok": true
+    }
+  ]
+}
